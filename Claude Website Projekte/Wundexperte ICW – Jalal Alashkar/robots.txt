@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://wundexperte-jalal-alashkar.com/sitemap.xml
+Sitemap: https://www.wundexperte-jalal-alashkar.com/sitemap.xml
