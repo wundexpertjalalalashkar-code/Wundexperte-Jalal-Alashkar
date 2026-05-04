@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://volljonas45-byte.github.io/Wundexperte-Jalal-Alashkar/sitemap.xml
+Sitemap: https://wundexperte-jalal-alashkar.com/sitemap.xml
